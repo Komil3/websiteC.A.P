@@ -53,16 +53,16 @@ export const HeroRu: React.FC = () => {
         {/* Main Heading */}
         <h1 className="text-5xl sm:text-6xl lg:text-8xl font-black text-white mb-8 leading-tight tracking-tight animate-fade-in">
           <span className="block text-blue-500 text-3xl sm:text-4xl lg:text-5xl font-bold mb-4 tracking-widest animate-slide-up">
-            C.A.P
+            <span className="font-black">C.A.P</span>
           </span>
-          <span className="bg-gradient-to-r from-white via-gray-200 to-white bg-clip-text text-transparent animate-slide-left">
+          <span className="bg-gradient-to-r from-white via-gray-200 to-white bg-clip-text text-transparent animate-slide-left text-4xl sm:text-5xl lg:text-6xl">
             СОЗДАНО ДЛЯ ПРОИЗВОДИТЕЛЬНОСТИ
           </span>
         </h1>
 
         {/* Tagline */}
-        <div className="text-2xl sm:text-3xl lg:text-4xl text-gray-300 mb-8 font-bold tracking-wide animate-slide-right">
-          ПОСТРОЕНО НА ВЕКА
+        <div className="text-xl sm:text-2xl lg:text-3xl text-gray-300 mb-8 font-bold tracking-wide animate-slide-right">
+          ТОЧНАЯ ИНЖЕНЕРИЯ
         </div>
 
         {/* Description */}

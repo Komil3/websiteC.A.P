@@ -11,25 +11,25 @@ export const ProductsRu: React.FC = () => {
       icon: Droplets,
       title: "Премиальные Моторные Масла",
       description: "Высокопроизводительные синтетические и обычные масла для максимальной защиты и производительности двигателя.",
-      image: "https://images.pexels.com/photos/13065690/pexels-photo-13065690.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/4315570/pexels-photo-4315570.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     },
     {
       icon: Filter,
       title: "Масляные и Воздушные Фильтры",
       description: "Фильтры OEM-качества, которые поддерживают чистоту двигателя и его работу на пиковой эффективности.",
-      image: "https://images.pexels.com/photos/162553/keys-workshop-mechanic-tools-162553.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/3807277/pexels-photo-3807277.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     },
     {
       icon: Zap,
       title: "Свечи Зажигания",
       description: "Прецизионно изготовленные свечи зажигания для оптимального зажигания и топливной эффективности.",
-      image: "https://images.pexels.com/photos/279949/pexels-photo-279949.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/3807277/pexels-photo-3807277.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     },
     {
       icon: Disc,
       title: "Тормозные Компоненты",
       description: "Профессиональные тормозные колодки и компоненты для превосходной тормозной мощности и безопасности.",
-      image: "https://images.pexels.com/photos/190574/pexels-photo-190574.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/3807277/pexels-photo-3807277.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     }
   ];
 
