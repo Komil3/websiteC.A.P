@@ -11,25 +11,25 @@ export const Products: React.FC = () => {
       icon: Droplets,
       title: "Premium Engine Oils",
       description: "High-performance synthetic and conventional oils for maximum engine protection and performance.",
-      image: "https://images.pexels.com/photos/4315570/pexels-photo-4315570.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/279949/pexels-photo-279949.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     },
     {
       icon: Filter,
       title: "Oil & Air Filters",
       description: "OEM-quality filters that keep your engine clean and running at peak efficiency.",
-      image: "https://images.pexels.com/photos/3807277/pexels-photo-3807277.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/13065690/pexels-photo-13065690.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     },
     {
       icon: Zap,
       title: "Spark Plugs",
       description: "Precision-engineered spark plugs for optimal ignition and fuel efficiency.",
-      image: "https://images.pexels.com/photos/3807277/pexels-photo-3807277.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/190574/pexels-photo-190574.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     },
     {
       icon: Disc,
       title: "Brake Components",
       description: "Professional-grade brake pads and components for superior stopping power and safety.",
-      image: "https://images.pexels.com/photos/3807277/pexels-photo-3807277.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
+      image: "https://images.pexels.com/photos/3642618/pexels-photo-3642618.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop"
     }
   ];
 
